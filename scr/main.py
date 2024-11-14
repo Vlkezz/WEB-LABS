@@ -1,5 +1,6 @@
-print("Hello,world!")
+print("Hello,GIT HUB!")
 
 a = int(input("Введите первое число:"))
 b = int(input("Введите второе число:"))
 print(a+b)
+
